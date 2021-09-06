@@ -21,4 +21,4 @@ This chapter is not necessary, but might be helpful. In the repository, you can 
 
 ## Final notes
 
-If something failed along the way und you cannot fix it on your own, reach out to us. If everything worked out, give us a sign and we’ll send you the task itself.
+If something failed along the way und you cannot fix it on your own, reach out to us. If everything worked out, good luck solving the challenge which was provided to you!
